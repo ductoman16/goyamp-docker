@@ -7,3 +7,4 @@ RUN tar -xzf /usr/local/bin/goyamp-0.4.4.tgz
 RUN chmod +x ./goyamp
 
 ENTRYPOINT ["./goyamp"]
+
